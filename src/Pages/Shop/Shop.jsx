@@ -24,7 +24,7 @@ export default function Shop() {
             </div>
           </div>
           <div className="w-1/2 ">
-            <img className="pt-5" src="/public/img/spcker.png" alt="" />
+            <img className="pt-5" src="img/spcker.png" alt="" />
           </div>
         </div>
       </div>

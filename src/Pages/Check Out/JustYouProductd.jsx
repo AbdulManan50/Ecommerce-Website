@@ -5,7 +5,7 @@ import { IoEyeOutline } from "react-icons/io5";
 
 const productsData = [
   {
-    imgSrc: "/public/img/controler.png",
+    imgSrc: "img/controler.png",
     discount: "-40%",
     name: "HAVIT HV-G92 Gamepad",
     price: "$120",
@@ -14,7 +14,7 @@ const productsData = [
     rating: 5,
   },
   {
-    imgSrc: "/public/img/car.png",
+    imgSrc: "img/car.png",
     discount: "-40%",
     name: "HAVIT HV-G92 Gamepad",
     price: "$120",
@@ -23,7 +23,7 @@ const productsData = [
     rating: 5,
   },
   {
-    imgSrc: "/public/img/chair.png",
+    imgSrc: "img/chair.png",
     discount: "-40%",
     name: "HAVIT HV-G92 Gamepad",
     price: "$120",
@@ -32,7 +32,7 @@ const productsData = [
     rating: 5,
   },
   {
-    imgSrc: "/public/img/shose.png",
+    imgSrc: "img/shose.png",
     discount: "-40%",
     name: "HAVIT HV-G92 Gamepad",
     price: "$120",
@@ -41,7 +41,7 @@ const productsData = [
     rating: 5,
   },
   {
-    imgSrc: "/public/img/table.png",
+    imgSrc: "img/table.png",
     discount: "-40%",
     name: "HAVIT HV-G92 Gamepad",
     price: "$120",

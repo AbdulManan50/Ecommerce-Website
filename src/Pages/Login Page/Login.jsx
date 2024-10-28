@@ -5,7 +5,7 @@ export default function Login() {
     <>
       <div className=" w-custom flex justify-center items-center py-20">
         <div className="w-1/2 bg-[#CBE4E8]">
-          <img src="/public/img/login.png" alt="" />
+          <img src="img/login.png" alt="" />
         </div>
         <div className="w-1/2 px-20 space-y-3">
           <div>
@@ -46,7 +46,7 @@ export default function Login() {
           </div>
           <div>
             <button className="bg-transparent py-4 w-full mt-10 flex justify-center items-center gap-3 font-Poppins border-black border-[2px]">
-              <img src="/public/img/google.png" alt="" />
+              <img src="img/google.png" alt="" />
               Sign up with Google
             </button>
           </div>

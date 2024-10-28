@@ -124,7 +124,7 @@ export default function SingleProducts() {
             </div>
             <div className="flex items-center gap-5 pt-5">
               <div>
-                <img src="/public/img/return.png" alt="" />
+                <img src="img/return.png" alt="" />
               </div>
               <div>
                 <h1 className="text-lg font-Poppins font-semibold">

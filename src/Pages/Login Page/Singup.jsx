@@ -4,7 +4,7 @@ export default function Singup() {
   return (
     <div className=" w-custom flex justify-center items-center py-20">
       <div className="w-1/2 bg-[#CBE4E8]">
-        <img src="/public/img/login.png" alt="" />
+        <img src="img/login.png" alt="" />
       </div>
       <div className="w-1/2 px-20 space-y-3">
         <div>

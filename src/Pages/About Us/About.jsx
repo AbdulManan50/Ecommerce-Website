@@ -26,20 +26,20 @@ export default function About() {
           </p>
         </div>
         <div className="w-1/2">
-          <img src="/public/img/aboutus.png" alt="" />
+          <img src="img/aboutus.png" alt="" />
         </div>
       </div>
       <div className="w-custom mx-auto flex gap-10 pb-10">
         <div className="w-1/4 flex justify-center items-center flex-col p-5 border-primary border-[2px] rounded-md">
           <div className="bg-black p-4 rounded-full">
-            <img src="/public/img/icon1.png" alt="" />
+            <img src="img/icon1.png" alt="" />
           </div>
           <h1 className="font-Poppins text-2xl font-bold pt-3">10.5k </h1>
           <p className="font-Poppins">Sallers active our site</p>
         </div>
         <div className="w-1/4 flex justify-center items-center flex-col p-5 border-primary border-[2px] rounded-md bg-secondary">
           <div className="bg-white p-4 rounded-full">
-            <img src="/public/img/icon2.png" alt="" />
+            <img src="img/icon2.png" alt="" />
           </div>
           <h1 className="font-Poppins text-2xl font-bold pt-3 text-white">
             33k
@@ -48,14 +48,14 @@ export default function About() {
         </div>
         <div className="w-1/4 flex justify-center items-center flex-col p-5 border-primary border-[2px] rounded-md">
           <div className="bg-black p-4 rounded-full">
-            <img src="/public/img/icon3.png" alt="" />
+            <img src="img/icon3.png" alt="" />
           </div>
           <h1 className="font-Poppins text-2xl font-bold pt-3">45.5k</h1>
           <p className="font-Poppins">Customer active in our site</p>
         </div>
         <div className="w-1/4 flex justify-center items-center flex-col p-5 border-primary border-[2px] rounded-md">
           <div className="bg-black p-4 rounded-full">
-            <img src="/public/img/icon1.png" alt="" />
+            <img src="img/icon1.png" alt="" />
           </div>
           <h1 className="font-Poppins text-2xl font-bold pt-3">25k</h1>
           <p className="font-Poppins">Anual gross sale in our site</p>
@@ -64,7 +64,7 @@ export default function About() {
       <div className="w-custom mx-auto flex gap-10 pt-20">
         <div className="w-1/3">
           <div className="bg-primary">
-            <img className="mx-auto pt-5" src="/public/img/person1.png" alt="" />
+            <img className="mx-auto pt-5" src="img/person1.png" alt="" />
           </div>
           <div className="pt-3 space-y-2">
             <h1 className="text-2xl font-bold font-Poppins">Tom Cruise</h1>
@@ -78,7 +78,7 @@ export default function About() {
         </div>
         <div className="w-1/3">
           <div className="bg-primary">
-            <img className="mx-auto pt-5" src="/public/img/person2.png" alt="" />
+            <img className="mx-auto pt-5" src="img/person2.png" alt="" />
           </div>
           <div className="pt-3 space-y-2">
             <h1 className="text-2xl font-bold font-Poppins">Emma Watson</h1>
@@ -92,7 +92,7 @@ export default function About() {
         </div>
         <div className="w-1/3">
           <div className="bg-primary">
-            <img className="mx-auto pt-5" src="/public/img/person3.png" alt="" />
+            <img className="mx-auto pt-5" src="img/person3.png" alt="" />
           </div>
           <div className="pt-3 space-y-2">
             <h1 className="text-2xl font-bold font-Poppins">Will Smith</h1>

@@ -34,7 +34,7 @@ export default function Home() {
           <div className="w-1/2  flex flex-col justify-center gap-3 pl-20">
             <div className="flex gap-3 items-center">
               <div>
-                <img src="/public/img/apple.png" alt="" />
+                <img src="img/apple.png" alt="" />
               </div>
               <div>
                 <h1 className="text-white font-Poppins">iPhone 14 Series</h1>
@@ -53,7 +53,7 @@ export default function Home() {
             </div>
           </div>
           <div className="w-1/2 ">
-            <img className="pt-5" src="/public/img/phone.png" alt="" />
+            <img className="pt-5" src="img/phone.png" alt="" />
           </div>
         </div>
       </div>
@@ -103,27 +103,27 @@ export default function Home() {
       <div className="w-custom mx-auto ">
         <div className="pt-10 flex gap-10">
           <div className="p-5 border-primary border-[2px] w-[15%] flex flex-col items-center rounded-md">
-            <img src="/public/img/mobile.png" alt="" />
+            <img src="img/mobile.png" alt="" />
             <h1 className="font-Poppins">Phones</h1>
           </div>
           <div className="p-5 border-primary border-[2px] w-[15%] flex flex-col items-center rounded-md">
-            <img src="/public/img/compature.png" alt="" />
+            <img src="img/compature.png" alt="" />
             <h1 className="font-Poppins">Computers</h1>
           </div>
           <div className="p-5 border-primary border-[2px] w-[15%] flex flex-col items-center rounded-md">
-            <img src="/public/img/watch.png" alt="" />
+            <img src="img/watch.png" alt="" />
             <h1 className="font-Poppins">SmartWatch</h1>
           </div>
           <div className="p-5 border-primary text-white bg-secondary border-[2px] w-[15%] flex flex-col items-center rounded-md">
-            <img src="/public/img/camera.png" alt="" />
+            <img src="img/camera.png" alt="" />
             <h1 className="font-Poppins">Camera</h1>
           </div>
           <div className="p-5 border-primary border-[2px] w-[15%] flex flex-col items-center rounded-md">
-            <img src="/public/img/headphone.png" alt="" />
+            <img src="img/headphone.png" alt="" />
             <h1 className="font-Poppins">HeadPhones</h1>
           </div>
           <div className="p-5 border-primary border-[2px] w-[15%] flex flex-col items-center rounded-md">
-            <img src="/public/img/game.png" alt="" />
+            <img src="img/game.png" alt="" />
             <h1 className="font-Poppins">Gaming</h1>
           </div>
         </div>
@@ -167,7 +167,7 @@ export default function Home() {
             </div>
           </div>
           <div className="w-1/2 ">
-            <img className="pt-5" src="/public/img/spcker.png" alt="" />
+            <img className="pt-5" src="img/spcker.png" alt="" />
           </div>
         </div>
       </div>

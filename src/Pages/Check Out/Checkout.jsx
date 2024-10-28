@@ -115,7 +115,7 @@ export default function Checkout() {
               </label>
             </div>
             <div>
-              <img src="/public/img/bank.png" alt="" />
+              <img src="img/bank.png" alt="" />
             </div>
           </div>
           <div className="space-x-5 pt-5">
